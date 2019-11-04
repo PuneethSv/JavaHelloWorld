@@ -1,2 +1,3 @@
 HI
-Syso(I am bad);
+Syso(I am good);
+Syso(I too good);
